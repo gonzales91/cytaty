@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tak</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tak">Kliknij abby ujrzeć magiczny text</string>
+    <string name="tar">Kliknij</string>
+    <string name="tal">0</string>
+    <string name="ttt">Klikacz</string>
+</resources>
